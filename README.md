@@ -29,6 +29,6 @@ Only the most essential features are implemented, so no settings screen, additio
 ## Installation/Download
 Clone this repository or download the zip file and import into **Android Studio**.
 
-It's important to note that in order to work in Compose( * *which is in beta at the momemnt* * ) you must download the Canary version of android studio.
+It's important to note that in order to work in Compose( * *which is in beta at the moment* * ) you must download the Canary version of android studio.
 
 You can do that [here](https://developer.android.com/studio/preview).
